@@ -1,7 +1,7 @@
 import numpy as np #矩阵运算库
 '''
 该算法为PCA算法，主程序分析算法
-本次算法调用数据：diabetes.csv 鸢尾花的各项数据
+本次算法调用数据：diabetes.csv 数据
 前四列为数据，最后一列为标签
 '''
 
