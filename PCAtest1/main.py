@@ -76,17 +76,17 @@ def pca(dataSet,k):
     #print(data)
     return data
 
-def pltshow1(data,labelList):
+def pltshow2(data,labelList):
     '''
-    降维后数据展示，展示降维到一维时的状态
+    降维后数据展示，展示降维到二维时的状态
     :return:
     '''
 
 
 
-def pltshow2(data, labelList):
+def pltshow3(data, labelList):
     '''
-    降维后数据展示，展示降维到二维时的状态
+    降维后数据展示，展示降维到三维时的状态
     :return:
     '''
 
